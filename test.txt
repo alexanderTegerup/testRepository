@@ -3,4 +3,6 @@ Now an other line is added!
 
 Text, text, text. 
 
-New text without git add command
+New text without git add command.
+
+Text written on a branch! 
