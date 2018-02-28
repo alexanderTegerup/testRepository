@@ -1,4 +1,3 @@
 TEsting git merge
 
-Text written on newBR
 
