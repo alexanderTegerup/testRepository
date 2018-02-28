@@ -1,6 +1,4 @@
-TEsting git merge
-
 This text file was made at my working copy. 
 Now an other line is added! 
 
-TExt made on branch
+Text made on branch
