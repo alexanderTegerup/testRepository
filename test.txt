@@ -1,8 +1,4 @@
-TEsting git merge
-
 This text file was made at my working copy. 
 Now an other line is added! 
 
-Text, text, text. 
 
-New text without git add command
